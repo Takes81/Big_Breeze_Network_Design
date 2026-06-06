@@ -1,1 +1,10 @@
-# Big_Breeze_Network_Design
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/a5e1c392-e060-4b33-a85e-164bac395187" />
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/508758df-1827-4e18-9400-034e4c9dcb65" />
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/c9a62414-95a3-46db-adc0-2fea0a87699f" />
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/c7e04f58-1fb0-444e-a1ea-3aa638a8fb98" />
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/3fa277a9-cbff-42a5-816d-9553c86356e8" />
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/dd7714fc-c07f-44fa-aa45-488d60ea5539" />
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/feb6a34a-91fb-422d-8638-1d26c72fcee7" />
+<img width="1366" height="768" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/5c176bbe-d0f9-4dc4-bde5-d070205c957c" />
+<img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/e813a9f6-3317-4fad-b4ce-94502d502f36" />
+<img width="1366" height="768" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/6c44cf80-4916-43a4-87f9-63a318721d88" />
